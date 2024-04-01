@@ -34,7 +34,7 @@ This Testimonials grid section project, I tackled the challenge of crafting a vi
 ### Links
 
 - Github Repository: [Click here](https://github.com/snaterave/challenge-6)
-- Live Site URL: [Click here](https://main--resonant-duckanoo-eb421d.netlify.app/)
+- Live Site URL: [Click here](https://660afa282339cd00a0e51fab--verdant-hummingbird-85bdf9.netlify.app/)
 
 
 
