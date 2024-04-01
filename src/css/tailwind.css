@@ -17,8 +17,7 @@ main{
         @apply flex items-center mb-6;
 
         div:nth-child(1){
-            @apply rounded-full border-2 border-neutral-light-gray;
-
+      
             img{
                 @apply rounded-full ;
             }
