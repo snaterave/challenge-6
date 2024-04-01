@@ -1,4 +1,4 @@
-# Frontend Mentor - 3 - column preview card component
+# Frontend Mentor - Testimonials grid section
 
 This is a solution to the [Testimonials grid section on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 ## Table of contents
