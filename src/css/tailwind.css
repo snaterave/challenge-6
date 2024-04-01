@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main{
+   @apply w-full flex flex-col;
+}
+
+.left-section{
+    @apply rounded-lg shadow-lg;
+
+    .card{
+        @apply mx-6 my-6 mb-8 pt-8 pb-8 lg:pt-0 lg:pb-0 md:pt-0 md:pb-0;
+    }
+    .first-item{
+        @apply flex items-center mb-6;
+
+        div:nth-child(1){
+            @apply rounded-full border-2 border-neutral-light-gray;
+
+            img{
+                @apply rounded-full ;
+            }
+        }
+        div:nth-child(2){
+            @apply font-bold ml-4;
+        }
+        
+    }
+
+    .first-paragraph-color{
+        @apply text-primary-white text-2xl lg:text-3xl md:text-3xl;
+    }
+
+    .second-paragraph-color{
+        @apply text-neutral-light-gray opacity-50 mt-6 mb-6 text-paragraph lg:text-lg md:text-lg lg:mt-0 lg:mb-0 md:mt-0 md:mb-0;
+    }
+
+    .first-paragraph-white{
+        @apply text-primary-very-dark-blackish-blue text-2xl lg:text-3xl md:text-3xl;
+    }
+
+    .second-paragraph-white{
+        @apply text-primary-very-dark-blackish-blue opacity-50 mt-6 mb-6 text-paragraph lg:text-lg lg:mt-0 lg:mb-0 md:mt-0 md:mb-0;
+    }
+}
+
